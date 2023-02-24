@@ -7,3 +7,7 @@ In this project I will be learning various techniques to use bash for scripting.
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
 
 ## :warning: Prerequisites
+
+* Must have `git` installed
+
+* Must have repository cloned
