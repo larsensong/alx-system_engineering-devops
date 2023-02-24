@@ -11,3 +11,7 @@ In this project I will be learning various techniques to use bash for scripting.
 * Must have `git` installed
 
 * Must have repository cloned
+
+```
+$ sudo apt-get install git
+```
