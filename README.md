@@ -1,3 +1,1 @@
-Software development projects
-
-Technical part of engineering
+# :shell: Learning Bash :shell:
