@@ -6,4 +6,6 @@ In this project I will be learning more about connecting to servers via SSH. I h
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
 
+## :warning: Prerequisites
+
 
