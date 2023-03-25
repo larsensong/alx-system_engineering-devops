@@ -8,4 +8,6 @@ In this project I will be learning more about connecting to servers via SSH. I h
 
 ## :warning: Prerequisites
 
+* Must have `git` installed
+
 
