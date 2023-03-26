@@ -1,4 +1,4 @@
-# 0x0A - Configuration management
+# :shell: 0x0A - Configuration Management (Using Puppet) :shell:
 
 Configuration Management is the process of systematically handling changes to a system in a way that it maintains integrity over time.
 
