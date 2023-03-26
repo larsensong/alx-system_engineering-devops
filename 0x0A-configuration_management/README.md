@@ -35,3 +35,6 @@ $ sudo apt-get install git
 $ sudo apt-get install puppet
 ```
 
+## :blue_book: Authors
+* **Larsen Song**
+
