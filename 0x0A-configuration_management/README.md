@@ -10,9 +10,10 @@ It is useful for:
 
 ## :running: Getting Started
 
-We have used [puppet](https://puppet.com/docs/puppet/6/puppet_overview.html) for this project and [puppet-lint](http://puppet-lint.com/) for checking syntax.
+We have used [puppet](https://puppet.com/docs/puppet/6/puppet_overview.html) for this project and [puppet-lint]
 
-## Requirements
+
+## :warning: Prerequisites
 
 * All your files will be interpreted on Ubuntu 20.04 LTS
 * All your files should end with a new line
