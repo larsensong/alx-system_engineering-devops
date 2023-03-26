@@ -22,3 +22,9 @@ We have used [puppet](https://puppet.com/docs/puppet/6/puppet_overview.html) for
 * Your Puppet manifests must run without error
 * Your Puppet manifests first line must be a comment explaining what the Puppet manifest is about
 * Your Puppet manifests files must end with the extension .pp
+
+* Must have `git` installed
+
+* Must have repository cloned
+
+* Must have `puppet` installed
