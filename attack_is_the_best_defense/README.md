@@ -10,3 +10,5 @@ Sendgrid offers is an emailing service that provides state of the art secure sys
 
 
 ## :running: Getting Started
+
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
