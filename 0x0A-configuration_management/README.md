@@ -8,6 +8,8 @@ It is useful for:
    * Keep consistency among several servers
    * Version control
 
+## :running: Getting Started
+
 We have used [puppet](https://puppet.com/docs/puppet/6/puppet_overview.html) for this project and [puppet-lint](http://puppet-lint.com/) for checking syntax.
 
 ## Requirements
