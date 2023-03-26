@@ -31,3 +31,7 @@ We have used [puppet](https://puppet.com/docs/puppet/6/puppet_overview.html) for
 $ sudo apt-get install git
 ```
 
+```
+$ sudo apt-get install puppet
+```
+
