@@ -12,3 +12,10 @@ In this project I will be debugging a docker container running an apache web ser
 
 * Must have repository cloned
 
+
+```
+$ sudo apt-get install git
+```
+
+## :blue_book: Authors
+* ** Larsen Song**
