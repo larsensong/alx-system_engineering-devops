@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# load balanecer haproxy install
+apt-get -y update
+apt-get -y upgrade
+apt-get -y install haproxy
+sed -i 's/ENABLED=0/ENABLED=1/' /etc/default/haproxy
+cp /etc/haproxy/haproxy.cfg /etc/haproxy/haproxyORIGINAL.cfg
+cat >> /etc/haproxy/haproxy.cfg << EOF
+    listen webapp 0.0.0.0:80
+    mode http
+    balance roundrobin
+    option httpclose
+    option forwardfor
+    server 155749-web-01 100.25.205.23 check
+    server 155749-web-02  100.25.205.23 check
+EOF
+service haproxy restart
