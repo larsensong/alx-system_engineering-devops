@@ -1,4 +1,5 @@
 # :shell: 0x0F - Load balancers :shell
+
 In this project I will be configuring an additional server and a load balancing server to split traffic between my two servers
 
 ## :running: Getting Started
@@ -15,3 +16,6 @@ In this project I will be configuring an additional server and a load balancing 
 ```
 $ sudo apt-get install git
 ```
+
+## :blue_book: Authors
+* **Larsen Song**
