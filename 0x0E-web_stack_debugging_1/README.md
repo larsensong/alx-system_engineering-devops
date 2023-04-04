@@ -15,3 +15,6 @@ In this project I will be configuring an additional server and a load balancing 
 
 * Must have repository cloned
 
+```
+$ sudo apt-get install git
+```
