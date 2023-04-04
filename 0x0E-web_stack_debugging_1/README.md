@@ -18,3 +18,6 @@ In this project I will be configuring an additional server and a load balancing 
 ```
 $ sudo apt-get install git
 ```
+
+## :blue_book: Authors
+* **Larsen Song**
