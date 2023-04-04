@@ -12,3 +12,6 @@ In this project I will be configuring an additional server and a load balancing 
 
 
 * Must have `git` installed
+
+* Must have repository cloned
+
