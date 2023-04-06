@@ -6,4 +6,10 @@ In this project I will be securing my load balancer using SSL certs. I will be d
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
 
+## :warning: Prerequisites
+
+* Must have `git` installed
+
+* Must have repository cloned
+
 
