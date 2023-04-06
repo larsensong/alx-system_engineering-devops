@@ -16,3 +16,6 @@ In this project I will be securing my load balancer using SSL certs. I will be d
 ```
 $ sudo apt-get install git
 ```
+
+## :blue_book: Authors
+* **Larsen Song** 
