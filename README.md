@@ -16,6 +16,6 @@ In this project I will be learning various techniques to use bash for scripting.
 $ sudo apt-get install git
 ```
 
-#  : Author: 
+## : Author: 
  
  ***Larsen Song***
