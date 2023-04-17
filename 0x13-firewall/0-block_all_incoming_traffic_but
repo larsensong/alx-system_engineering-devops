@@ -1,0 +1,14 @@
+#!usr/bin/env bash
+# setup ufw to allow ssh, http and https and block all other traffic
+
+apt install ufw
+ufw disable
+ufw --force reset
+ufw default deny incoming
+ufw default allow outgoing
+systemctl stop ufw
+ufw allow ssh
+ufw allow http
+ufw allow https
+systemctl start ufw
+ufw --force enable
