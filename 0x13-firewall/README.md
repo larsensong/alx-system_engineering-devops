@@ -15,3 +15,7 @@ Debugging usually takes a big chunk of a software engineer’s time. The art of 
 * Must have `git` installed
 
 * Must have repository cloned
+
+```
+$ sudo apt-get install git
+```
