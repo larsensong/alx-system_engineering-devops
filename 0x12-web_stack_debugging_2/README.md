@@ -30,5 +30,9 @@ try netstat -lpn on a Ubuntu machine
 ## :warning: Prerequisites
 
 * Must have `git` installed
-* 
+
 * Must have repository cloned
+
+```
+$ sudo apt-get install git
+```
