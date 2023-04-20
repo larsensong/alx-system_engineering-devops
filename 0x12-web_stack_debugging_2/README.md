@@ -22,3 +22,5 @@ netstat
 what port and IP your server is listening on
 what processes are using sockets
 try netstat -lpn on a Ubuntu machine
+
+## :running: Getting Started
