@@ -1,4 +1,6 @@
-       0x12. Web stack debugging #2
+      # :shell: 0x12. Web stack debugging #2 :shell:
+       
+     
 
 A Bash script that accepts one argument
 the script should run the whoami command under the user passed as an argument'
