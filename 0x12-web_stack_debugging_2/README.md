@@ -28,3 +28,5 @@ try netstat -lpn on a Ubuntu machine
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
 
 ## :warning: Prerequisites
+
+* Must have `git` installed
