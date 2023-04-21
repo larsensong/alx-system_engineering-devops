@@ -24,3 +24,5 @@ $ sudo apt-get install git
 ```
 
 ## :blue_book: Authors
+
+* **Larsen Song**
