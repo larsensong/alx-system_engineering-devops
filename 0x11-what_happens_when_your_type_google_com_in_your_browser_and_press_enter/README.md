@@ -14,3 +14,5 @@ Let’s practice by exploring the infrastructure side (network, servers, securit
 ## :warning: Prerequisites
 
 * Must have `git` installed
+
+* Must have repository cloned
