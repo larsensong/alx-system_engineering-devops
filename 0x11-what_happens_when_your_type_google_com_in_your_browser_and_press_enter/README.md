@@ -12,3 +12,5 @@ Let’s practice by exploring the infrastructure side (network, servers, securit
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
 
 ## :warning: Prerequisites
+
+* Must have `git` installed
