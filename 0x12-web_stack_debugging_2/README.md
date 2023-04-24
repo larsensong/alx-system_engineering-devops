@@ -1,4 +1,6 @@
-       0x12. Web stack debugging #2
+ ##  :shell: 0x12. Web stack debugging #2 :shell: 
+       
+     
 
 A Bash script that accepts one argument
 the script should run the whoami command under the user passed as an argument'
@@ -20,3 +22,20 @@ netstat
 what port and IP your server is listening on
 what processes are using sockets
 try netstat -lpn on a Ubuntu machine
+
+## :running: Getting Started
+
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
+
+## :warning: Prerequisites
+
+* Must have `git` installed
+
+* Must have repository cloned
+
+```
+$ sudo apt-get install git
+```
+
+## :blue_book: Authors
+* **Larsen Song**
