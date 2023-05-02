@@ -1,2 +1,1 @@
-0x0C - Web server
-# :shell: Learning Bash :shell:
+# :shell: 0x0C - Web server :shell:
