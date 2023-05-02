@@ -7,7 +7,8 @@
 ## :warning: Prerequisites
 
 * Must have `git` installed
-
-```
-$ sudo apt-get install git
-```
+ 
+ ```
+ $ sudo apt-get install git
+  ```
+## : Author: 
