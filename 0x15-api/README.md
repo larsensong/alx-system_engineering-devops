@@ -15,3 +15,8 @@ This is a perfect example of a task that is not suited for Bash scripting, so le
 * Must have `git` installed
 
 * Must have repository cloned
+
+
+```
+$ sudo apt-get install git.
+```
