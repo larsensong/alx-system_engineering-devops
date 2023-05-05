@@ -13,3 +13,5 @@ This is a perfect example of a task that is not suited for Bash scripting, so le
 ## :warning: Prerequisites
 
 * Must have `git` installed
+
+* Must have repository cloned
