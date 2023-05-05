@@ -7,3 +7,5 @@ One popular way to expose an application and dataset is to use an API. Often, th
 This is a perfect example of a task that is not suited for Bash scripting, so let’s build Python scripts.
 
 ## :running: Getting Started
+
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
