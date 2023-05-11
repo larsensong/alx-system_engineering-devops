@@ -10,6 +10,6 @@ Hint: No authentication is necessary for most features of the Reddit API. If you
 
 * Must have `git` installed
 
- ```
- $ sudo apt-get install git
-  ```
+   ```
+ * $ sudo apt-get install git
+   ```
