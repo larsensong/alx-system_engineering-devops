@@ -7,3 +7,5 @@ Hint: No authentication is necessary for most features of the Reddit API. If you
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
 
 ## :warning: Prerequisites
+
+* Must have `git` installed
