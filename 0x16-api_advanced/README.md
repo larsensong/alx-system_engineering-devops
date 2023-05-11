@@ -15,3 +15,5 @@ Hint: No authentication is necessary for most features of the Reddit API. If you
    ```
    
   ## : Author:
+  
+*** Larsen Song ***
