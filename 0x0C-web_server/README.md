@@ -1,6 +1,6 @@
 # :shell: 0x0C - Web server :shell:
 Web server creation. The server helps in hosting the web applications.
-The repository will cover  the  use of 
+The repository will cover  the  use of  NGINX.
 
 ## :running: Getting Started
 
