@@ -1,5 +1,5 @@
 # :shell: 0x0C - Web server :shell:
-Web server creation. The server helps in hosting the 
+Web server creation. The server helps in hosting the web applications.
 
 ## :running: Getting Started
 
