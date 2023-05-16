@@ -8,7 +8,7 @@ The art of debugging is tough and it takes years, even decades to master, and th
 They have seen lots of broken code, buggy systems, weird edge cases and race conditions.
 
 
-## :running: Getting Started
+## :running: Getting Started.
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
 
