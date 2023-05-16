@@ -16,7 +16,7 @@ They have seen lots of broken code, buggy systems, weird edge cases and race con
 
 * Must have `git` installed
 
-* Must have repository cloned
+* Must have repository cloned.
 
 ```
 $ sudo apt-get install git.
