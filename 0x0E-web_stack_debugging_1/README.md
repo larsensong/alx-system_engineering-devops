@@ -11,7 +11,7 @@ In this project I will be configuring an additional server and a load balancing 
 ## :warning: Prerequisites
 
 
-* Must have `git` installed
+* Must have `git` installed.
 
 * Must have repository cloned
 
