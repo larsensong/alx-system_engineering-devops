@@ -37,5 +37,5 @@ $ sudo apt-get install puppet
 ```
 
 ## :blue_book: Authors
-* **Larsen Song**
+* ** Larsen Song **
 
