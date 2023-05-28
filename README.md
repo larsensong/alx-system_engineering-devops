@@ -1,8 +1,8 @@
 # :shell: Learning Bash :shell:
+In this project, I will be learning several scripting techniques using bash.
+I'm hoping to use bash to make my coding, development, and deployment lot more seamless and productive. I'm currently using Python for scripting, but bash is incredibly strong for common SRE jobs, therefore I believe I need to learn it to be a competent software engineer. This repository is completely script-driven.
+Software engineering is totally script-based.
 
-In this project I will be learning various techniques to use bash for scripting.
-I hope to use bash to make my coding, development, and deployment in  much more seemless and working environment . I use python for scripting right now, but bash is very powerful for common SRE tasks so I feel I must learn it to be proficient as a software engineer. This repository is entirely script based.
-Software Engineering is entirely build on script basis.
 
 ## :running: Getting Started.
 
