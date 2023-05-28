@@ -8,11 +8,11 @@ Software Engineering is entirely build on script basis.
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system that is required.
 
-## :warning: Prerequisites
+## :warning: Prerequisites.
 
-* Must have `git` installed
+* Must have `git` installed.
 
-* Must have repository cloned
+* Must have repository cloned.
 
 ```
 $ sudo apt-get install git
