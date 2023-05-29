@@ -1,5 +1,5 @@
-# :shell: 0x11 - Web Request Debugging :shell:
-CMD CHALLENGE
+# :shell:CMD CHALLENGE :shell:
+
 
 
 It is a pretty cool game challenging you on Bash skills
