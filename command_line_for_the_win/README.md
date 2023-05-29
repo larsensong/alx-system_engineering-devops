@@ -13,3 +13,16 @@ It is a pretty cool game challenging you on Bash skills
 * Must have `git` installed
 
 * Must have repository cloned
+
+
+```
+$ sudo apt-get install git
+```
+
+```
+$ sudo apt-get install python3
+```
+
+## :blue_book: Authors
+* **Larsen Song** 
+
