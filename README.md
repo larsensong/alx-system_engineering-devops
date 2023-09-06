@@ -7,7 +7,7 @@ Software engineering is totally script-based depedant and it entails one to have
 
 ## :running: Getting Started.
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system is required..
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system  required.
 
 ## :warning: Prerequisites.
 
