@@ -9,7 +9,7 @@ Software engineering is totally script-based depedant and it entails one to have
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system  required.
 
-## :warning: Prerequisites.
+## :warning: Prerequisites.💀
 
 * Must have `git` installed.
 
